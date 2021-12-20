@@ -1,0 +1,176 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#company-name {
+    font-size: 6.0em;
+}
+
+#comp-desc {
+    font-size: 31px;
+    font-weight: lighter;
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Arimo', sans-serif;
+}
+
+.text {
+    position: relative;
+    top: 4.5em;
+}
+
+.img img {
+    margin-top: 5em;
+    width: 25em;
+    height: 25em;
+    position: relative;
+}
+
+.btn button {
+    width: 10em;
+    border-radius: 19px;
+    background-color: #c7ff00;
+    border: none;
+    height: 2.2em;
+}
+
+.mission {
+    margin-top: 7em;
+}
+
+h1 {
+    margin-left: 2em;
+    font-family: 'Arimo', sans-serif;
+}
+
+.mission p {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Anonymous Pro', monospace;
+
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.service {
+    margin-top: 2em;
+
+}
+
+.image img {
+    width: 32em;
+    height: 16em;
+}
+
+.section {
+    font-size: 24px;
+    font-family: 'Anonymous Pro', monospace;
+
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.service h1 {
+    margin-left: 2em;
+    font-family: 'Arimo', sans-serif;
+}
+
+
+
+/* order */
+#size {
+    width: 6em;
+    height: 2em;
+    text-align: center;
+    background-color: #fffdfd;
+    border: none;
+    border-radius: 8px;
+}
+.order{
+    justify-content: space-around;
+}
+.order-image img {
+    width: 26em;
+height: 23em;
+}
+.ordering{
+    background-color: rgb(167, 164, 164);
+    
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+input{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.sec1 p{
+    color: rgb(176, 174, 174);
+    font-family: 'Anonymous Pro', monospace;
+
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+
+.fa {
+    padding: 0.5em;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    /* #3B5998 */
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .sec2 img{
+      height: 20em;
+  }
+  .sec2 p{
+    font-family: 'Anonymous Pro', monospace;
+
+    font-family: 'Arimo', sans-serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
